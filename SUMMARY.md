@@ -5,7 +5,6 @@
   * [准备工作](01env/step01.md)
   * [环境搭建](01env/step02.md)
   * [导入项目](01env/step03.md)
-  * [好人](01env/.md)
 * [框架说明](02framework/framework.md)
   * [前端框架](02framework/webadmin.md)
   * [前端数据交互js](02framework/adminjs.md)
